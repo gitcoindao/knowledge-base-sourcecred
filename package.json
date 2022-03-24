@@ -9,7 +9,7 @@
   "dependencies": {
     "global": "^4.4.0",
     "node-gyp": "^8.4.1",
-    "sourcecred": "^0.10.1"
+    "sourcecred": "^0.11.1"
   },
   "scripts": {
     "clean": "rimraf cache site",
